@@ -1,0 +1,51 @@
+#joy 1
+    # 4	approval
+    # 13 excitement
+    # 17 joy
+    # 20 optimism
+    # 29 happiness
+#anger/frustration 2
+    # 2	anger
+    # 3	annoyance
+    # 10 disapproval
+    # 11 disgust
+    # 31 hate
+#sadness 3
+    # 16 grief
+    # 24 remorse
+    # 25 sadness
+#love 4
+    # 0 admiration
+    # 5	caring
+    # 8	desire
+    # 18 love
+#good humour/fun 5
+    # 1 amusement
+    # 26 surprise
+    # 30 fun
+    # 36 enthusiasm
+    # 37 recreation
+#unease 6
+    # 6	confusion
+    # 9	disappointment
+    # 12 embarrassment
+    # 14 fear
+    # 19 nervousness
+    # 28 worry
+    # 42 boredom
+#reflection/introspection/contentment 7
+    # 7 curiosity
+    # 15 gratitude
+    # 21 pride
+    # 22 realization
+    # 23 relief
+    # 33 safety
+    # 34 understanding
+    # 38 sense of belonging
+    # 39 meaning
+    # 40 sustenance
+    # 41 creativity
+#neutral
+    # 27 neutral
+    # 32 autonomy
+    # 35 empty
